@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a47ddb9a3ac94a8469e02e6195a311a1
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - ClickedObject: {instanceID: 0}
+  - Cube: {fileID: 195766, guid: 1efa19f778c598d4db2baf91e1f0b6d5, type: 2}
+  - Sphere: {instanceID: 0}
+  - Masstext: {instanceID: 0}
+  - Acceltext: {instanceID: 0}
+  - Veloctext: {instanceID: 0}
+  - Forcetext: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
